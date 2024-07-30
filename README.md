@@ -2,4 +2,4 @@
 
 Меня зовут Иван, мне 28 лет, я учусь в Нетологии!
 
-C:\Users\Ivan\Desktop\about me\photo_2024-03-13_15-39-20.jpg
+![my photo](photo_2024-03-13_15-39-20.jpg)
